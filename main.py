@@ -1,5 +1,4 @@
-from src.tools.tools import web_search, scrape_url
+from src.pipelines.pipelines import run_research_pipeline
 
-output = scrape_url.invoke("https://docs.langchain.com/oss/python/langchain/tools")
 
-print(output)
+output = run_research_pipeline("The impact of artificial intelligence on healthcare and medical research")
