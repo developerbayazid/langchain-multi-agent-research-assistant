@@ -2,7 +2,7 @@
 
 An AI-powered research assistant built with **LangChain, OpenAI, Tavily, and Streamlit**. It searches the web for relevant information, reads selected webpages, generates a structured research report, and reviews the report using a critic chain.
 
-The project uses a simple Python-based pipeline to orchestrate the research process. LangGraph is planned as a future learning step.
+The project uses a simple Python-based pipeline to orchestrate the research process.
 
 ## ✨ Features
 
